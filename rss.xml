@@ -23,7 +23,7 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
         
-        <lastBuildDate>Tue, 05 May 2020 13:47:56 +0800</lastBuildDate>
+        <lastBuildDate>Tue, 05 May 2020 14:28:45 +0800</lastBuildDate>
         
             <atom:link rel="self" type="application/rss+xml" href="https://summerday.ml/rss.xml" />
         
@@ -368,8 +368,7 @@
 </div><p><img src="https://gitee.com/wang_wx/image_bed/raw/master/2020/20200418230037.png" alt=""></p>
 <p>并在<strong>主题配置文件</strong>的末尾添加如下的配置：</p>
 <p><img src="https://gitee.com/wang_wx/image_bed/raw/master/2020/20200418230416.png" alt=""></p>
-<p>最后 <code>hexo g &amp;&amp; hexo s </code> 生成并预览，没有问题的话 <code>hexo d</code>推送至 github 即可。</p>
-]]></description>
+<p>最后 <code>hexo g &amp;&amp; hexo s </code> 生成并预览，没有问题的话 <code>hexo d</code>推送至 github 即可。</p>]]></description>
                 
                 
                 
