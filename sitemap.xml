@@ -3,26 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://example.com/posts/markdown/</loc>
+    <loc>https://summerday.ml/posts/markdown/</loc>
     <lastmod>2020-05-05T08:19:04+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/posts/</loc>
+    <loc>https://summerday.ml/posts/</loc>
     <lastmod>2020-05-05T08:19:04+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/</loc>
-    <lastmod>2020-05-05T08:19:04+08:00</lastmod>
+    <loc>https://summerday.ml/</loc>
+    <lastmod>2020-05-05T10:19:01+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/categories/</loc>
+    <loc>https://summerday.ml/about/</loc>
+    <lastmod>2020-05-05T10:19:01+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/tags/</loc>
+    <loc>https://summerday.ml/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://summerday.ml/tags/</loc>
   </url>
   
 </urlset>

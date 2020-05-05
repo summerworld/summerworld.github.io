@@ -8,7 +8,7 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>热夏的博客</title>
-        <link>https://example.com/</link>
+        <link>https://summerday.ml/</link>
         <description>MemE 是一个强大且可高度定制的 GoHugo 博客主题，专为个人博客设计。</description>
         <generator>Hugo 0.69.2 https://gohugo.io/</generator>
         
@@ -23,15 +23,15 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
         
-        <lastBuildDate>Tue, 05 May 2020 09:19:01 +0800</lastBuildDate>
+        <lastBuildDate>Tue, 05 May 2020 10:19:20 +0800</lastBuildDate>
         
-            <atom:link rel="self" type="application/rss+xml" href="https://example.com/rss.xml" />
+            <atom:link rel="self" type="application/rss+xml" href="https://summerday.ml/rss.xml" />
         
         
             <item>
                 <title>Markdown</title>
-                <link>https://example.com/posts/markdown/</link>
-                <guid isPermaLink="true">https://example.com/posts/markdown/</guid>
+                <link>https://summerday.ml/posts/markdown/</link>
+                <guid isPermaLink="true">https://summerday.ml/posts/markdown/</guid>
                 <pubDate>Tue, 05 May 2020 08:04:21 +0800</pubDate>
                 
                     <author>w1244753906@gmail.com (热夏)</author>
