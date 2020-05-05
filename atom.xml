@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
+    <title type="text">热夏的博客</title>
+    <subtitle type="html">MemE 是一个强大且可高度定制的 GoHugo 博客主题，专为个人博客设计。</subtitle>
+    <updated>2020-05-05T08:56:33+08:00</updated>
+    <id>https://example.com/</id>
+    <link rel="alternate" type="text/html" href="https://example.com/" />
+    <link rel="self" type="application/atom+xml" href="https://example.com/atom.xml" />
+    <author>
+            <name>热夏</name>
+            <uri>https://example.com/</uri>
+            
+                <email>w1244753906@gmail.com</email>
+            </author>
+    <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
+    <generator uri="https://gohugo.io/" version="0.69.2">Hugo</generator>
+        <entry>
+            <title type="text">Markdown</title>
+            <link rel="alternate" type="text/html" href="https://example.com/posts/markdown/" />
+            <id>https://example.com/posts/markdown/</id>
+            <updated>2020-05-05T08:19:04+08:00</updated>
+            <published>2020-05-05T08:04:21+08:00</published>
+            <author>
+                    <name>热夏</name>
+                    <uri>https://summerworld.github.io/</uri>
+                    <email>w1244753906@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
+    
+    <summary type="html"><![CDATA[[TOC](Visual Studio 2019配置qt开发环境) 欢迎使用Markdown编辑器 你好！ 这是你第一次使用 M……]]></summary>
+            
+                <content type="html"><![CDATA[<p>[TOC](Visual Studio 2019配置qt开发环境)</p>
+<h1 id="欢迎使用markdown编辑器">欢迎使用Markdown编辑器</h1>
+<p>你好！ 这是你第一次使用 <strong>Markdown编辑器</strong> 所展示的欢迎页。如果你想学习如何使用Markdown编辑器, 可以仔细阅读这篇文章，了解一下Markdown的基本语法知识。</p>
+<h2 id="新的改变">新的改变</h2>
+<p>我们对Markdown编辑器进行了一些功能拓展与语法支持，除了标准的Markdown编辑器功能，我们增加了如下几点新功能，帮助你用它写博客：</p>
+<ol>
+<li><strong>全新的界面设计</strong> ，将会带来全新的写作体验；</li>
+<li>在创作中心设置你喜爱的代码高亮样式，Markdown <strong>将代码片显示选择的高亮样式</strong> 进行展示；</li>
+<li>增加了 <strong>图片拖拽</strong> 功能，你可以将本地的图片直接拖拽到编辑区域直接展示；</li>
+<li>全新的 <strong>KaTeX数学公式</strong> 语法；</li>
+<li>增加了支持<strong>甘特图的mermaid语法<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup></strong> 功能；</li>
+<li>增加了 <strong>多屏幕编辑</strong> Markdown文章功能；</li>
+<li>增加了 <strong>焦点写作模式、预览模式、简洁写作模式、左右区域同步滚轮设置</strong> 等功能，功能按钮位于编辑区域与预览区域中间；</li>
+<li>增加了 <strong>检查列表</strong> 功能。</li>
+</ol>
+<h2 id="功能快捷键">功能快捷键</h2>
+<p>撤销：<kbd>Ctrl/Command</kbd> + <kbd>Z</kbd>
+重做：<kbd>Ctrl/Command</kbd> + <kbd>Y</kbd>
+加粗：<kbd>Ctrl/Command</kbd> + <kbd>B</kbd>
+斜体：<kbd>Ctrl/Command</kbd> + <kbd>I</kbd>
+标题：<kbd>Ctrl/Command</kbd> + <kbd>Shift</kbd> + <kbd>H</kbd>
+无序列表：<kbd>Ctrl/Command</kbd> + <kbd>Shift</kbd> + <kbd>U</kbd>
+有序列表：<kbd>Ctrl/Command</kbd> + <kbd>Shift</kbd> + <kbd>O</kbd>
+检查列表：<kbd>Ctrl/Command</kbd> + <kbd>Shift</kbd> + <kbd>C</kbd>
+插入代码：<kbd>Ctrl/Command</kbd> + <kbd>Shift</kbd> + <kbd>K</kbd>
+插入链接：<kbd>Ctrl/Command</kbd> + <kbd>Shift</kbd> + <kbd>L</kbd>
+插入图片：<kbd>Ctrl/Command</kbd> + <kbd>Shift</kbd> + <kbd>G</kbd>
+查找：<kbd>Ctrl/Command</kbd> + <kbd>F</kbd>
+替换：<kbd>Ctrl/Command</kbd> + <kbd>G</kbd></p>
+<h2 id="合理的创建标题有助于目录的生成">合理的创建标题，有助于目录的生成</h2>
+<p>直接输入1次<kbd>#</kbd>，并按下<kbd>space</kbd>后，将生成1级标题。
+输入2次<kbd>#</kbd>，并按下<kbd>space</kbd>后，将生成2级标题。
+以此类推，我们支持6级标题。有助于使用<code>TOC</code>语法后生成一个完美的目录。</p>
+<h2 id="如何改变文本的样式">如何改变文本的样式</h2>
+<p><em>强调文本</em> <em>强调文本</em></p>
+<p><strong>加粗文本</strong> <strong>加粗文本</strong></p>
+<p>==标记文本==</p>
+<p><del>删除文本</del></p>
+<blockquote>
+<p>引用文本</p>
+</blockquote>
+<p>H~2~O is是液体。</p>
+<p>2^10^ 运算结果是 1024.</p>
+<h2 id="插入链接与图片">插入链接与图片</h2>
+<p>链接: <a href="https://www.csdn.net/">link</a>.</p>
+<p>图片: <img src="https://imgconvert.csdnimg.cn/aHR0cHM6Ly9hdmF0YXIuY3Nkbi5uZXQvNy83L0IvMV9yYWxmX2h4MTYzY29tLmpwZw" alt="Alt"></p>
+<p>带尺寸的图片: ![Alt](<a href="https://imgconvert.csdnimg.cn/aHR0cHM6Ly9hdmF0YXIuY3Nkbi5uZXQvNy83L0IvMV9yYWxmX2h4MTYzY29tLmpwZw">https://imgconvert.csdnimg.cn/aHR0cHM6Ly9hdmF0YXIuY3Nkbi5uZXQvNy83L0IvMV9yYWxmX2h4MTYzY29tLmpwZw</a> =30x30)</p>
+<p>居中的图片: <img src="https://imgconvert.csdnimg.cn/aHR0cHM6Ly9hdmF0YXIuY3Nkbi5uZXQvNy83L0IvMV9yYWxmX2h4MTYzY29tLmpwZw#pic_center" alt="Alt"></p>
+<p>居中并且带尺寸的图片: ![Alt](<a href="https://imgconvert.csdnimg.cn/aHR0cHM6Ly9hdmF0YXIuY3Nkbi5uZXQvNy83L0IvMV9yYWxmX2h4MTYzY29tLmpwZw#pic_center">https://imgconvert.csdnimg.cn/aHR0cHM6Ly9hdmF0YXIuY3Nkbi5uZXQvNy83L0IvMV9yYWxmX2h4MTYzY29tLmpwZw#pic_center</a> =30x30)</p>
+<p>当然，我们为了让用户更加便捷，我们增加了图片拖拽功能。</p>
+<h2 id="如何插入一段漂亮的代码片">如何插入一段漂亮的代码片</h2>
+<p>去<a href="https://mp.csdn.net/console/configBlog">博客设置</a>页面，选择一款你喜欢的代码片高亮样式，下面展示同样高亮的 <code>代码片</code>.</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-javascript" data-lang="javascript"><span class="c1">// An highlighted block
+</span><span class="c1"></span><span class="kd">var</span> <span class="nx">foo</span> <span class="o">=</span> <span class="s1">&#39;bar&#39;</span><span class="p">;</span>
+</code></pre></td></tr></table>
+</div>
+</div><h2 id="生成一个适合你的列表">生成一个适合你的列表</h2>
+<ul>
+<li>项目
+<ul>
+<li>项目
+<ul>
+<li>项目</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<ol>
+<li>项目1</li>
+<li>项目2</li>
+<li>项目3</li>
+</ol>
+<ul>
+<li><input disabled="" type="checkbox"> 计划任务</li>
+<li><input checked="" disabled="" type="checkbox"> 完成任务</li>
+</ul>
+<h2 id="创建一个表格">创建一个表格</h2>
+<p>一个简单的表格是这么创建的：</p>
+<table>
+<thead>
+<tr>
+<th>项目</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>电脑</td>
+<td>$1600</td>
+</tr>
+<tr>
+<td>手机</td>
+<td>$12</td>
+</tr>
+<tr>
+<td>导管</td>
+<td>$1</td>
+</tr>
+</tbody>
+</table>
+<h3 id="设定内容居中居左居右">设定内容居中、居左、居右</h3>
+<p>使用<code>:---------:</code>居中
+使用<code>:----------</code>居左
+使用<code>----------:</code>居右</p>
+<table>
+<thead>
+<tr>
+<th align="center">第一列</th>
+<th align="right">第二列</th>
+<th align="left">第三列</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">第一列文本居中</td>
+<td align="right">第二列文本居右</td>
+<td align="left">第三列文本居左</td>
+</tr>
+</tbody>
+</table>
+<h3 id="smartypants">SmartyPants</h3>
+<p>SmartyPants将ASCII标点字符转换为“智能”印刷标点HTML实体。例如：
+|    TYPE   |ASCII                          |HTML
+|----------------|-------------------------------|-----------------------------|
+|Single backticks|<code>'Isn't this fun?'</code>            |'Isn't this fun?'            |
+|Quotes          |<code>&quot;Isn't this fun?&quot;</code>            |&quot;Isn't this fun?&quot;            |
+|Dashes          |<code>-- is en-dash, --- is em-dash</code>|-- is en-dash, --- is em-dash|</p>
+<h2 id="创建一个自定义列表">创建一个自定义列表</h2>
+<dl>
+<dt>Markdown</dt>
+<dd>Text-to-HTML conversion tool</dd>
+<dt>Authors</dt>
+<dd>John</dd>
+<dd>Luke</dd>
+</dl>
+<h2 id="如何创建一个注脚">如何创建一个注脚</h2>
+<p>一个具有注脚的文本。<sup id="fnref:2"><a href="#fn:2" class="footnote-ref" role="doc-noteref">2</a></sup></p>
+<h2 id="注释也是必不可少的">注释也是必不可少的</h2>
+<p>Markdown将文本转换为 HTML。</p>
+<p>*[HTML]:   超文本标记语言</p>
+<h2 id="katex数学公式">KaTeX数学公式</h2>
+<p>您可以使用渲染LaTeX数学表达式 <a href="https://khan.github.io/KaTeX/">KaTeX</a>:</p>
+<p>Gamma公式展示 $\Gamma(n) = (n-1)!\quad\forall
+n\in\mathbb N$ 是通过欧拉积分</p>
+<p>$$
+\Gamma(z) = \int_0^\infty t^{z-1}e^{-t}dt,.
+$$</p>
+<blockquote>
+<p>你可以找到更多关于的信息 <strong>LaTeX</strong> 数学表达式<a href="http://meta.math.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference">here</a>.</p>
+</blockquote>
+<h2 id="新的甘特图功能丰富你的文章">新的甘特图功能，丰富你的文章</h2>
+<pre><code class="language-mermaid" data-lang="mermaid">gantt
+        dateFormat  YYYY-MM-DD
+        title Adding GANTT diagram functionality to mermaid
+        section 现有任务
+        已完成               :done,    des1, 2014-01-06,2014-01-08
+        进行中               :active,  des2, 2014-01-09, 3d
+        计划一               :         des3, after des2, 5d
+        计划二               :         des4, after des3, 5d
+</code></pre><ul>
+<li>关于 <strong>甘特图</strong> 语法，参考 <a href="https://mermaidjs.github.io/">这儿</a>,</li>
+</ul>
+<h2 id="uml-图表">UML 图表</h2>
+<p>可以使用UML图表进行渲染。 <a href="https://mermaidjs.github.io/">Mermaid</a>. 例如下面产生的一个序列图：</p>
+<pre><code class="language-mermaid" data-lang="mermaid">sequenceDiagram
+张三 -&gt;&gt; 李四: 你好！李四, 最近怎么样?
+李四--&gt;&gt;王五: 你最近怎么样，王五？
+李四--x 张三: 我很好，谢谢!
+李四-x 王五: 我很好，谢谢!
+Note right of 王五: 李四想了很长时间, 文字太长了&lt;br/&gt;不适合放在一行.
+
+李四--&gt;&gt;张三: 打量着王五...
+张三-&gt;&gt;王五: 很好... 王五, 你怎么样?
+</code></pre><p>这将产生一个流程图。:</p>
+<pre><code class="language-mermaid" data-lang="mermaid">graph LR
+A[长方形] -- 链接 --&gt; B((圆))
+A --&gt; C(圆角长方形)
+B --&gt; D{菱形}
+C --&gt; D
+</code></pre><ul>
+<li>关于 <strong>Mermaid</strong> 语法，参考 <a href="https://mermaidjs.github.io/">这儿</a>,</li>
+</ul>
+<h2 id="flowchart流程图">FLowchart流程图</h2>
+<p>我们依旧会支持flowchart的流程图：</p>
+<pre><code class="language-mermaid" data-lang="mermaid">flowchat
+st=&gt;start: 开始
+e=&gt;end: 结束
+op=&gt;operation: 我的操作
+cond=&gt;condition: 确认？
+
+st-&gt;op-&gt;cond
+cond(yes)-&gt;e
+cond(no)-&gt;op
+</code></pre><ul>
+<li>关于 <strong>Flowchart流程图</strong> 语法，参考 <a href="http://adrai.github.io/flowchart.js/">这儿</a>.</li>
+</ul>
+<h2 id="导出与导入">导出与导入</h2>
+<h3 id="导出">导出</h3>
+<p>如果你想尝试使用此编辑器, 你可以在此篇文章任意编辑。当你完成了一篇文章的写作, 在上方工具栏找到 <strong>文章导出</strong> ，生成一个.md文件或者.html文件进行本地保存。</p>
+<h3 id="导入">导入</h3>
+<p>如果你想加载一篇你写过的.md文件，在上方工具栏可以选择导入功能进行对应扩展名的文件导入，
+继续你的创作。</p>
+<section class="footnotes" role="doc-endnotes">
+<hr>
+<ol>
+<li id="fn:1" role="doc-endnote">
+<p><a href="https://mermaidjs.github.io/">mermaid语法说明</a> <a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:2" role="doc-endnote">
+<p>注脚的解释 <a href="#fnref:2" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+</ol>
+</section>
+]]></content>
+            
+            
+            
+            
+            
+                
+                    
+                
+                    
+                
+            
+        </entry>
+    
+</feed>
